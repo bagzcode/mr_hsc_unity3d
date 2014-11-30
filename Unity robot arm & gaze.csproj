@@ -58,10 +58,12 @@
      <None Include="Assets\Scripts\controlCamera.js" />
      <None Include="Assets\Scripts\controlGazeCamera.js" />
      <None Include="Assets\Scripts\controlPosition.js" />
+     <None Include="Assets\Scripts\copyControlPosition.js" />
      <None Include="Assets\Scripts\FPS.js" />
      <None Include="Assets\Scripts\myGUI.js" />
      <None Include="Assets\Scripts\placeBoard.js" />
      <None Include="Assets\Scripts\rulerPosition.js" />
+     <None Include="Assets\Scripts\test image.js" />
      <None Include="Assets\Scripts\tipLimits.js" />
      <None Include="Assets\Standard Assets\Camera Scripts\MouseOrbit.js" />
      <None Include="Assets\Standard Assets\Camera Scripts\SmoothFollow.js" />
