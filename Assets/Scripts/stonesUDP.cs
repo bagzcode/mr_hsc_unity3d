@@ -1,3 +1,8 @@
+//////////////////////////////////////
+// Created by Stephane Bersot - 2010
+// www.stephanebersot.com
+//////////////////////////////////////
+
 using UnityEngine;
 using System;
 using System.Net;
@@ -25,7 +30,7 @@ Quaternion stoneAngle = new Quaternion(0,0,0,0);
 		ReceiveData(); //from OpenCV program
 	}
 	
-	void Update()
+	void FixedUpdate()
 	{
 		myThread(); //thread to receive from OpenCV
 		handleData();
@@ -87,22 +92,16 @@ Quaternion stoneAngle = new Quaternion(0,0,0,0);
 			newStone.transform.localScale = new Vector3( scale_x, 3 , scale_z);
 			newStone.renderer.enabled = true ;
 			newStone.name = "stone_"+ stone[0] ;
-		} 
-		else 
-		{
-			if(  Mathf.Abs(testStone.transform.localScale.x - scale_x)>5
-				||Mathf.Abs(testStone.transform.localScale.z - scale_z)>5
-				||Mathf.Abs(testStone.transform.localPosition.x - pos_x)>20
-				||Mathf.Abs(testStone.transform.localPosition.z - pos_z)>20
-				&& testStone
+		} else {		
+			// destroy stones when the deltas size/position pass the limits
+			if(    Mathf.Abs(testStone.transform.localScale.x - scale_x)>2
+				||Mathf.Abs(testStone.transform.localScale.z - scale_z)>2
 			  )
-			{
-				Destroy (GameObject.Find("stone_"+ stone[0]));
-			}/*
-			else 
 				{
-					testStone.transform.position = new Vector3(pos_x, 6.66f, pos_z);
-				}*/
+					Destroy (GameObject.Find("stone_"+ stone[0]));
+				} else {
+					testStone.transform.localPosition = new Vector3(pos_x, 6.66f, pos_z);
+				}
 		}
 	}
 	

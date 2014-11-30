@@ -46,14 +46,11 @@ public class sendUDP : MonoBehaviour {
 	//static IPEndPoint ep = new IPEndPoint(ip_rb, 50002);
 	
 	Vector3 loc;
-	bool test = true ;
-//	bool test_enable = false ;
-//	bool sendServer = false ; 
+	bool test = true ; 
 	
 	void Start ()
 	{		
 		udpClient.Client.ReceiveBufferSize =  64;
-		//Debug.Log(	udpClient.Client.ReceiveBufferSize);
 		empty_size_bytes = BitConverter.GetBytes(empty_size);
 		data_id_bytes = BitConverter.GetBytes(data_id);
 		udpClient.Connect("150.229.9.120", 50002); //robot arm
@@ -65,19 +62,19 @@ public class sendUDP : MonoBehaviour {
 		{
 			loc = GameObject.Find("locator1").transform.position;
 			offset_x = loc.x;
-			offset_y = loc.y - 3;			
+			offset_y = loc.y - 2;			
 			offset_z = loc.z;
 			transform.position = loc;
 			test = false ;
 		}
 		
-		//get sphere_tip position
-		z = transform.position.z - 5;
-		coord_x = z  - offset_z  ;
+		//get sphere_tip_ghost position
+		z = transform.position.z - 5 ;
+		coord_x = transform.position.z  - offset_z  ;
 		coord_y = transform.position.x - offset_x ;
 		coord_z = transform.position.y  - offset_y  ;
 		
-		Debug.Log(coord_x + " " + coord_y + " " + coord_z);
+		//Debug.Log(coord_x + " " + coord_y + " " + coord_z);
 
 		sendData(-coord_y/unit, coord_z/unit, coord_x/unit);
 		receiveData();
@@ -126,15 +123,8 @@ public class sendUDP : MonoBehaviour {
 	}
 	
 	void receiveData()
-	{	//receive data from robot
-		//try
-		//{
+	{	
 			receiveBytes = udpClient.Receive(ref ep);
-		//}
-		/*catch (SocketException socketException)
-		{
-			//Debug.Log(socketException.Message);
-		}*/
 	}
 	
 	void deltaUdp()
@@ -146,8 +136,9 @@ public class sendUDP : MonoBehaviour {
 		er_x = -coord_y - BitConverter.ToDouble(reverseBytes(robot_x, 8), 0)*unit;
 		er_y = coord_z - BitConverter.ToDouble(reverseBytes(robot_y, 8), 0)*unit;
 		er_z = coord_x - BitConverter.ToDouble(reverseBytes(robot_z, 8), 0)*unit;
-		//Debug.Log("er_x = " + er_x +"   er_y = "+ er_y +"   er_z = "+ er_z);
-		
+
+		//Debug.Log("X : "+er_x+" y : "+er_x+" Z : "+er_x);
+		/*
 		if(Mathf.Abs((float)er_x)>1 || Mathf.Abs((float)er_y)>1 || Mathf.Abs((float)er_z)>1)
 		{ 
 			if(err_frame_mini < 10) // if error last more than n frames, solve last buffer issues
@@ -155,21 +146,21 @@ public class sendUDP : MonoBehaviour {
 				err_frame_mini++;
 			}
 			else {
-				GameObject.Find("tip_ghost").renderer.enabled = true ;
+				*/
+				//GameObject.Find("tip_ghost").renderer.enabled = true ;
 				float a = (float)BitConverter.ToDouble(reverseBytes(robot_x, 8), 0) *unit;
 				float b = (float)BitConverter.ToDouble(reverseBytes(robot_y, 8), 0) *unit;
 				float c = (float)BitConverter.ToDouble(reverseBytes(robot_z, 8), 0) *unit;
-				
-				GameObject.Find("sphere_tip_ghost").transform.position = new Vector3( -a, b-20.5f+7, c+21.4f ) ;
-				GameObject.Find("tip_ghost").transform.rotation = GameObject.Find("tip").transform.rotation ;
+				Debug.Log("A : "+a+" B : "+b+" C : "+c);
+				GameObject.Find("sphere_tip").transform.position = new Vector3( -a, b-20.5f+7, c+21.4f ) ;
+			/*	
 			}
 		} else {
 			err_frame_mini = 0;
-			GameObject.Find("tip_ghost").renderer.enabled = false ;
+			//GameObject.Find("tip_ghost").renderer.enabled = false ;
 		}
 		
-		//test1 = "er_x = " + er_x.ToString("f2") +"   er_y = "+ er_y.ToString("f2") +"   er_z = "+ er_z.ToString("f2") ;
-		//test2 = (-coord_y).ToString("f2") + "      " + (BitConverter.ToDouble(reverseBytes(robot_x, 8), 0)*unit).ToString("f2");
+	*/
 	}
 	
 	void myThread()
@@ -179,10 +170,5 @@ public class sendUDP : MonoBehaviour {
 		receiveThread.Start();
         receiveThread.Abort();	 
 	}
-	
-	//~ void OnGUI ()
-	//~ {
-		//~ GUI.Label (new Rect (10, 20, 400, 20), test1);
-		//~ GUI.Label (new Rect (10, 30, 400, 20), test2);
-	//~ }
+
 }

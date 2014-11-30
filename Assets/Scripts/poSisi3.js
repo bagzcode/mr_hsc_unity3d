@@ -20,12 +20,12 @@ var projectile : Rigidbody;
 
 //coordinate deafult position
 var xDef : float = 0;
-var yDef : float = -13.5;
-var zDef : float = 31;
+var yDef : float = -13;
+var zDef : float = 21.4;
 //coordinate of hole
 var xHole : float = 0;
-var yHole : float = -14;
-var zHole : float = 26;
+var yHole : float = -13;
+var zHole : float = 32;
 
 //position of rocks
 var v1_x : float ;
@@ -41,6 +41,12 @@ var rocks : int ;
 var xStone : float;
 var zStone : float;
 var totalStone : int ;
+
+function Start()
+{
+	transform.position.y = -13 ;
+	GameObject.Find("tip_ghost").renderer.enabled = true ;
+}
 
 function cekStone()
 {
@@ -73,8 +79,7 @@ function getPosisiton()
 			yScale = v1.GetComponent("clickObject").yScale;
 			zScale = v1.GetComponent("clickObject").zScale ;
 			//to make program not looping
-			i = totalStone+1;
-			
+			i = totalStone+1;			
 		}
 	}
 }
@@ -113,7 +118,7 @@ function setPosition ()
 			if ( dX <= 1.5 )
 				{
 					// pararel on the TOP
-					zStone  = v1_z + (zScale/3);
+					zStone  = v1_z + (zScale/2);
 					xStone  = v1_x;		
 				}
 			else 
@@ -121,7 +126,7 @@ function setPosition ()
 				if ( dZ <= 1.5 || dZ3 <= 1.5 || dZ2 <=1.5  )
 					{
 						// parallel to the left
-						xStone  = v1_x - (xScale/3);
+						xStone  = v1_x - (xScale/2);
 						zStone  = v1_z ;						
 					}
 					else if ( dZ > 1.5 || dZ3 >1.5 || dZ2 >1.5 )
@@ -129,13 +134,13 @@ function setPosition ()
 						if (v1_z <25)
 						{
 							// if stone in left bottom
-							xStone = v1_x - (xScale/3);
-							zStone = v1_z - (zScale/3);
+							xStone = v1_x - (xScale/2);
+							zStone = v1_z - (zScale/2);
 						}
 						else
 						{	// if stone in left top
-							xStone = v1_x - (xScale/3);
-							zStone = v1_z + (zScale/3);
+							xStone = v1_x - (xScale/2);
+							zStone = v1_z + (zScale/2);
 						}
 					}
 			}
@@ -145,7 +150,7 @@ function setPosition ()
 			if ( dX <= 1.5 )
 			{
 				// pararel on bottom
-				zStone  = v1_z - (zScale/3);
+				zStone  = v1_z - (zScale/2);
 				xStone  = v1_x;
 			}
 			else
@@ -153,20 +158,20 @@ function setPosition ()
 				if ( dZ <= 1.5  || dZ3 <= 1.5 || dZ2 <=1.5) 
 				{
 				// parallel to the right
-					xStone  = v1_x + ( xScale/3);
+					xStone  = v1_x + ( xScale/2);
 					zStone  = v1_z ;
 				}
 				else  if ( dZ > 1.5 || dZ3 > 1.5 || dZ2 >1.5 ) 
 				{
 					if (v1_z <25)
 						{	// if stone in right bottom
-							xStone = v1_x + (xScale/3);
-							zStone = v1_z - (zScale/3);
+							xStone = v1_x + (xScale/2);
+							zStone = v1_z - (zScale/2);
 						}
 					else
 						{	// if stone in right top
-							xStone = v1_x + (xScale/3);
-							zStone = v1_z + (zScale/3);
+							xStone = v1_x + (xScale/2);
+							zStone = v1_z + (zScale/2);
 						}
 				}
 			}
@@ -175,8 +180,8 @@ function setPosition ()
 
 function goHole ()
 {
-	var v3 : Vector3 = Vector3(xHole, yHole, zHole) - transform.position ;
-	transform.Translate(v3*0.1);						
+	var v3 : Vector3 = Vector3(xHole, transform.position.y, zHole) - transform.position ;
+	transform.Translate(v3);						
 	goUp = true;	
 }
 
@@ -203,12 +208,17 @@ function backPosition()
 function FixedUpdate () {
 	
 	cekStone();	
+	if (Input.GetKey(KeyCode.Home))
+	{	
+		backPosition();	
+		goUp = true;
+	}
 	if (Input.GetKey(KeyCode.Space))
 	{	
 		goHole ();	
 		goUp = true;
-	}
-		
+		backPosition();	
+	}	
 	getPosisiton();
 	setPosition();	
 	

@@ -11,6 +11,7 @@ var obj : boolean = false;
 var click : boolean = false ;
 
 function OnMouseDown () {
+	
 	click = true ;
 	var rockPosition : Vector3 = transform.position ;	
 	Debug.Log("The rock position is : " + rockPosition.x + " " + rockPosition.y + " " + rockPosition.z);
@@ -25,4 +26,7 @@ function OnMouseDown () {
 		yScale = rockScale.y ;
 		zScale = rockScale.z ;		
 	Debug.Log("The rock scale is : " + rockScale.x + " " + rockScale.y + " " + rockScale.z);	
+	
+
 }
+
