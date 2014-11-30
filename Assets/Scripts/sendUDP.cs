@@ -28,7 +28,7 @@ public class sendUDP : MonoBehaviour {
 	float offset_x ;
 	float offset_y ;
 	float offset_z ;
-	
+	float z;
 	//position of the 3D tip
 	static double coord_x ;
 	static double coord_y ;
@@ -65,18 +65,19 @@ public class sendUDP : MonoBehaviour {
 		{
 			loc = GameObject.Find("locator1").transform.position;
 			offset_x = loc.x;
-			offset_y = loc.y - 3;
+			offset_y = loc.y - 3;			
 			offset_z = loc.z;
 			transform.position = loc;
 			test = false ;
 		}
 		
 		//get sphere_tip position
-		coord_x = transform.position.z  - offset_z  ;
+		z = transform.position.z - 5;
+		coord_x = z  - offset_z  ;
 		coord_y = transform.position.x - offset_x ;
 		coord_z = transform.position.y  - offset_y  ;
 		
-		//Debug.Log(coord_x + " " + coord_y + " " + coord_z);
+		Debug.Log(coord_x + " " + coord_y + " " + coord_z);
 
 		sendData(-coord_y/unit, coord_z/unit, coord_x/unit);
 		receiveData();

@@ -87,17 +87,19 @@ Quaternion stoneAngle = new Quaternion(0,0,0,0);
 			newStone.transform.localScale = new Vector3( scale_x, 3 , scale_z);
 			newStone.renderer.enabled = true ;
 			newStone.name = "stone_"+ stone[0] ;
-		} else {
-			if(    Mathf.Abs(testStone.transform.localScale.x - scale_x)>1
-				||Mathf.Abs(testStone.transform.localScale.z - scale_z)>1
-				||Mathf.Abs(testStone.transform.localPosition.x - pos_x)>10
-				||Mathf.Abs(testStone.transform.localPosition.z - pos_z)>10
+		} 
+		else 
+		{
+			if(  Mathf.Abs(testStone.transform.localScale.x - scale_x)>5
+				||Mathf.Abs(testStone.transform.localScale.z - scale_z)>5
+				||Mathf.Abs(testStone.transform.localPosition.x - pos_x)>20
+				||Mathf.Abs(testStone.transform.localPosition.z - pos_z)>20
 				&& testStone
 			  )
-				{
-					Destroy (GameObject.Find("stone_"+ stone[0]));
-				}
-			/*else 
+			{
+				Destroy (GameObject.Find("stone_"+ stone[0]));
+			}/*
+			else 
 				{
 					testStone.transform.position = new Vector3(pos_x, 6.66f, pos_z);
 				}*/

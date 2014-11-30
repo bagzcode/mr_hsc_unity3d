@@ -49,6 +49,7 @@ function cekStone()
 		if (GameObject.Find("stone_"+a))
 		{ //get total stone
 			totalStone = a;
+
 		}		
 	}
 }
@@ -57,20 +58,16 @@ function getPosisiton()
 {	
 	for (i=1; i<=totalStone; i++)
 	{		
-		var v1 = GameObject.Find("stone_"+i);		
-		Debug.Log("i = "+i);
+		var v1 = GameObject.Find("stone_"+i);				
 		clicking = v1.GetComponent("clickObject").click ;
 		if (clicking == true)
-		{
-			Debug.Log ("STONE NUMBER " + i);
+		{			
 			rocks = i ; 
 			//position of rocks
 			v1_x = v1.GetComponent("clickObject").xStone ;
 			v1_y = v1.GetComponent("clickObject").yStone ;
 			v1_z = v1.GetComponent("clickObject").zStone ;	
-			//diffrent of real world and 3d model
-			v1_z = v1_z - 5 ;
-			
+		
 			//scale of rocks
 			xScale = v1.GetComponent("clickObject").xScale ;
 			yScale = v1.GetComponent("clickObject").yScale;
@@ -117,8 +114,7 @@ function setPosition ()
 				{
 					// pararel on the TOP
 					zStone  = v1_z + (zScale/3);
-					xStone  = v1_x;
-					Debug.Log(" top of hole " );				
+					xStone  = v1_x;		
 				}
 			else 
 			{
@@ -126,9 +122,7 @@ function setPosition ()
 					{
 						// parallel to the left
 						xStone  = v1_x - (xScale/3);
-						zStone  = v1_z ;
-						Debug.Log("  parallel to the left" );		
-						stonePosition = "~ parallel to the left ";								
+						zStone  = v1_z ;						
 					}
 					else if ( dZ > 1.5 || dZ3 >1.5 || dZ2 >1.5 )
 					{
@@ -137,15 +131,11 @@ function setPosition ()
 							// if stone in left bottom
 							xStone = v1_x - (xScale/3);
 							zStone = v1_z - (zScale/3);
-							Debug.Log(" left bottom " );	
-							stonePosition = "~ left bottom ";	
 						}
 						else
 						{	// if stone in left top
 							xStone = v1_x - (xScale/3);
 							zStone = v1_z + (zScale/3);
-							Debug.Log(" left top " );	
-							stonePosition = "~ left top ";	
 						}
 					}
 			}
@@ -157,8 +147,6 @@ function setPosition ()
 				// pararel on bottom
 				zStone  = v1_z - (zScale/3);
 				xStone  = v1_x;
-				Debug.Log(" bottom of hole " );	
-				stonePosition = "~ bottom of hole ";	
 			}
 			else
 			{
@@ -167,8 +155,6 @@ function setPosition ()
 				// parallel to the right
 					xStone  = v1_x + ( xScale/3);
 					zStone  = v1_z ;
-					Debug.Log("  parallel to the right " );	
-					stonePosition = "~ parallel to the right ";	
 				}
 				else  if ( dZ > 1.5 || dZ3 > 1.5 || dZ2 >1.5 ) 
 				{
@@ -176,15 +162,11 @@ function setPosition ()
 						{	// if stone in right bottom
 							xStone = v1_x + (xScale/3);
 							zStone = v1_z - (zScale/3);
-							Debug.Log(" right bottom " );	
-							stonePosition = "~ right bottom ";	
 						}
 					else
 						{	// if stone in right top
 							xStone = v1_x + (xScale/3);
 							zStone = v1_z + (zScale/3);
-							Debug.Log(" right top " );	
-							stonePosition = "~ right top ";	
 						}
 				}
 			}
@@ -253,8 +235,7 @@ function FixedUpdate () {
 				var down : Vector3 = Vector3(xStone, yDown, zStone) - transform.position ;
 				transform.Translate(down*0.1);	
 				goUp = false;
-				if (Mathf.Floor(transform.position.x) == Mathf.Floor(xStone) 
-					&& Mathf.Floor(transform.position.z) == Mathf.Floor(zStone))
+				if (Mathf.Floor(transform.position.y) == -14)
 				{ 
 					resetRocks = true;					
 					reset();

@@ -1,7 +1,0 @@
-F:\Robot_arm\Unity robot arm & gaze\Temp\bin\Debug\Irrelvant.dll
-F:\Robot_arm\Unity robot arm & gaze\Temp\bin\Debug\Irrelvant.pdb
-F:\Robot_arm\Unity robot arm & gaze\Temp\bin\Debug\UnityEditor.dll
-F:\Robot_arm\Unity robot arm & gaze\Temp\bin\Debug\UnityEngine-Debug.dll
-F:\Robot_arm\Unity robot arm & gaze\obj\Debug\ResolveAssemblyReference.cache
-F:\Robot_arm\Unity robot arm & gaze\obj\Debug\Irrelvant.dll
-F:\Robot_arm\Unity robot arm & gaze\obj\Debug\Irrelvant.pdb
