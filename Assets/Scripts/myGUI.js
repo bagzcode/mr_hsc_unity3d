@@ -1,58 +1,31 @@
-var opencv : boolean ;
-var facelab : boolean ;
-var sendudp : boolean ;
-var xScale : boolean;
-var yScale : boolean;
-var zScale : boolean;
-var v1_x : boolean;
-var v1_y : boolean;
-var v1_z : boolean;
+var xScale : float;
+var yScale : float;
+var zScale : float;
+var v1_x : float;
+var v1_y : float;
+var v1_z : float;
 var timer : boolean = false;
 var xStone : float ;
 var zStone : float ;
-var stonePosition = ""; 
-var clock  ; 
-var i : int = 1 ;
-
-
+var totalStone : float = 0 ; 
+//var stone_ = new array();
+var i : int ;
+var b : int = 100;
 function OnGUI ()
 {
 	// Make GUI window
-	/*
-	GUI.Box (Rect (10,5,250,130), "~ Stone Information ~");  
-	GUI.TextArea (Rect (22,25,230,20), "Stone Position"+stonePosition); 
-	GUI.TextArea (Rect (22,50,230,20), xScale + " xScale " + yScale + "yScale" + zScale+ "zScale"); 
-	GUI.TextArea (Rect (22,75,230,20), v1_x + " xStone " + v1_y + "yStone" + v1_z + "zStone"); 
-	GUI.Label (Rect(25, 90, 90, 20), "FPS : " + FPS.fps.ToString("f2"));	
-	clock = Time.timeSinceLevelLoad.ToString();
-	*/
-	GUI.Label (Rect(25, 110, 230, 20), "time : " + Time.realtimeSinceStartup); 	
-	
-
+	GUI.TextArea (Rect (72,7,115,20), ""); 
+	GUI.Box (Rect (10,5,250,140), "~ Control Information ~");  	
+	GUI.Label (Rect (30,30,230,20), "Click on stone to make robot move"); 
+	GUI.TextArea (Rect (75,60,130,20), "~ Stone Information ~");  
+	GUI.Label (Rect (22,85,230,20), "Total Stone : "+totalStone); 
+	/*GUI.Label (Rect (22,100,230,20), "Stone 1 : " + stone_[1]); 
+	GUI.Label (Rect (22,115,230,20), "Stone 2 : " + stone_[2]); 
+	GUI.Label (Rect (22,130,230,20), "Stone 3 : " + stone_[3]); 
+	GUI.Label (Rect (22,145,230,20), "Stone 4 : " + stone_[4]); */
+	GUI.Label (Rect(22, 100, 90, 20), "FPS : " + FPS.fps.ToString("f2"));		
+	GUI.Label (Rect(22, 125, 230, 20), "time : " + Time.realtimeSinceStartup); 
 } 
-function OnMouseDown () {
-	Debug.Log("fILYA");
-	
-}
 
-function Update()
-{ 
-			var v1 = GameObject.Find("stone_"+i);
-			//var v1 = GameObject.Find("Cube"+i);
-			/*			
-			//position of rocks
-			v1_x = v1.GetComponent("controlPosition").xStone ;
-			v1_y = v1.GetComponent("controlPosition").yStone ;
-			v1_z = v1.GetComponent("controlPosition").zStone ;
-			
-			//make instance of stone
-			instance = Instantiate (v1);
-			
-			//scale of rocks
-			xScale = v1.GetComponent("controlPosition").xScale ;
-			yScale = v1.GetComponent("controlPosition").yStone;
-			zScale = v1.GetComponent("controlPosition").zStone ;
-			
-			stonePosition = GameObject.Find("sphere_tip").GetComponent("controlPosition").stonePosition ;
-			*/
-}
+
+

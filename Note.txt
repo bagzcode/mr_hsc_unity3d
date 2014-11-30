@@ -1,5 +1,5 @@
-model can move to new click of cube
+i can click on stone and then move,
+adready on time based
 
-problem : 
-cant click on stone
-based on time
+
+probem : stone still blinking

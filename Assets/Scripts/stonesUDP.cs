@@ -16,8 +16,6 @@ static Thread receiveThread;
 int Lu=384, Lv=288 ; //OpenCV video stream resolution
 float Bu=29.4f , Bv=43.8f;
 int nb_stones = 0, nb_stones_max = 0, nb_stones_it = 0;
-int totalStone = 0;
-float xBefore = 0 , zBefore = 0 , xScale_bef = 0 , zScale_bef=0;
 public GameObject stonePrefab ;
 Quaternion stoneAngle = new Quaternion(0,0,0,0);
 	
@@ -56,7 +54,7 @@ Quaternion stoneAngle = new Quaternion(0,0,0,0);
 		//translate datagram from OpenCV program		
 		if(!returnData.Contains("nostones") && returnData != "")
 		{ 	
-			string [] splits = returnData.Split(new Char [] {';'}) ;
+			string [] splits = returnData.Split(new Char [] {';'});
 		
 			int[] stone = new int[5];
 			stone[0] = Convert.ToInt32(splits[0]) ; //stone_ID
@@ -65,13 +63,7 @@ Quaternion stoneAngle = new Quaternion(0,0,0,0);
 			stone[3] = Convert.ToInt32(splits[3]) ; //stone_width
 			stone[4] = Convert.ToInt32(splits[4]); //stone_height
 			countStones(stone[0]);
-			float  timeNow = Time.realtimeSinceStartup;
-			float times = Mathf.Floor(timeNow);
-			//stone will show after 2 second
-			if (times % 3 == 1 )
-			{
 			instantiateStones(stone);
-			}
 		}
 	}
 	
@@ -86,36 +78,29 @@ Quaternion stoneAngle = new Quaternion(0,0,0,0);
 		float pos_z = (stone[1]-Lu) *Bu/Lu + Bu/2;
 		if(testStone == null)
 		{  
-			/*if (Mathf.Abs(pos_x - xBefore) > 2 
-				&& Mathf.Abs(pos_z - zBefore) > 2 
-				&& Mathf.Abs(scale_x - xScale_bef )>2
-				&& Mathf.Abs(scale_z - zScale_bef )>2 )
-			{*/
-				Vector3 stonePosition = new Vector3(0, 0, 0);
-				GameObject newStone = (GameObject)Instantiate(stonePrefab, stonePosition, stoneAngle) ;
-				newStone.renderer.enabled = false ;
-				//the stones are children of the board so pos_x and pos_z are computed in the local transform
-				newStone.transform.parent = GameObject.Find("polySurface1").transform ;
-				newStone.transform.localPosition = new Vector3(pos_x, 6.66f, pos_z);
-				newStone.transform.localScale = new Vector3( scale_x, 3 , scale_z);
-				newStone.renderer.enabled = true ;
-				newStone.name = "stone_"+ stone[0] ;
-				xBefore = pos_x;
-				zBefore = pos_z;
-				xScale_bef = scale_x;
-				zScale_bef = scale_z;
-				totalStone++;
-			//}
+			Vector3 stonePosition = new Vector3(0, 0, 0);
+			GameObject newStone = (GameObject)Instantiate(stonePrefab, stonePosition, stoneAngle) ;
+			newStone.renderer.enabled = false ;
+			//the stones are children of the board so pos_x and pos_z are computed in the local transform
+			newStone.transform.parent = GameObject.Find("polySurface1").transform ;
+			newStone.transform.localPosition = new Vector3(pos_x, 6.66f, pos_z);
+			newStone.transform.localScale = new Vector3( scale_x, 3 , scale_z);
+			newStone.renderer.enabled = true ;
+			newStone.name = "stone_"+ stone[0] ;
 		} else {
-			if(    Mathf.Abs(testStone.transform.localScale.x - scale_x)>5
-				||Mathf.Abs(testStone.transform.localScale.z - scale_z)>5
-				||Mathf.Abs(testStone.transform.localPosition.x - pos_x)>20
-				||Mathf.Abs(testStone.transform.localPosition.z - pos_z)>20
+			if(    Mathf.Abs(testStone.transform.localScale.x - scale_x)>1
+				||Mathf.Abs(testStone.transform.localScale.z - scale_z)>1
+				||Mathf.Abs(testStone.transform.localPosition.x - pos_x)>10
+				||Mathf.Abs(testStone.transform.localPosition.z - pos_z)>10
 				&& testStone
 			  )
 				{
 					Destroy (GameObject.Find("stone_"+ stone[0]));
 				}
+			/*else 
+				{
+					testStone.transform.position = new Vector3(pos_x, 6.66f, pos_z);
+				}*/
 		}
 	}
 	

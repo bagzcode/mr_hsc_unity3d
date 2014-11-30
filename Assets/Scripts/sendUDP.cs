@@ -47,8 +47,8 @@ public class sendUDP : MonoBehaviour {
 	
 	Vector3 loc;
 	bool test = true ;
-	bool test_enable = false ;
-	bool sendServer = false ; 
+//	bool test_enable = false ;
+//	bool sendServer = false ; 
 	
 	void Start ()
 	{		
@@ -126,14 +126,14 @@ public class sendUDP : MonoBehaviour {
 	
 	void receiveData()
 	{	//receive data from robot
-		try
-		{
+		//try
+		//{
 			receiveBytes = udpClient.Receive(ref ep);
-		}
-		catch (SocketException socketException)
+		//}
+		/*catch (SocketException socketException)
 		{
 			//Debug.Log(socketException.Message);
-		}
+		}*/
 	}
 	
 	void deltaUdp()
