@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>9.0.21022</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{786C1C27-5E7E-E374-E8FE-5684C1E0C8A0}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace>Irrelevant</RootNamespace>
+	<AssemblyName>Irrelvant</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files/Unity/Editor/Data/lib/UnityEngine-Debug.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files/Unity/Editor/Data/lib/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Scripts\capUDP.cs" />
+     <Compile Include="Assets\Scripts\gazeUDP.cs" />
+     <Compile Include="Assets\Scripts\moveStone.cs" />
+     <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
+     <Compile Include="Assets\Scripts\sendUDP.cs" />
+     <Compile Include="Assets\Scripts\stonesUDP.cs" />
+     <Compile Include="Assets\Standard Assets\Camera Scripts\MouseLook.cs" />
+     <Compile Include="Assets\Standard Assets\Scripts\ActivateTrigger.cs" />
+     <Compile Include="Assets\Standard Assets\Scripts\CombineChildren.cs" />
+     <Compile Include="Assets\Standard Assets\Scripts\MeshCombineUtility.cs" />
+     <Compile Include="Assets\Standard Assets\Water\Sources\WaterSimple.cs" />
+     <None Include="Assets\Standard Assets\Blob-Shadow\ShadowProjection.shader" />
+     <None Include="Assets\Standard Assets\Water\Sources\FX-Water Simple.shader" />
+     <None Include="Assets\Scripts\controlCamera.js" />
+     <None Include="Assets\Scripts\controlGazeCamera.js" />
+     <None Include="Assets\Scripts\controlPosition.js" />
+     <None Include="Assets\Scripts\FPS.js" />
+     <None Include="Assets\Scripts\myGUI.js" />
+     <None Include="Assets\Scripts\placeBoard.js" />
+     <None Include="Assets\Scripts\rulerPosition.js" />
+     <None Include="Assets\Scripts\tipLimits.js" />
+     <None Include="Assets\Standard Assets\Camera Scripts\MouseOrbit.js" />
+     <None Include="Assets\Standard Assets\Camera Scripts\SmoothFollow.js" />
+     <None Include="Assets\Standard Assets\Camera Scripts\SmoothLookAt.js" />
+     <None Include="Assets\Standard Assets\Scripts\DragRigidbody.js" />
+     <None Include="Assets\Standard Assets\Scripts\FPSWalker.js" />
+     <None Include="Assets\Standard Assets\Scripts\TimedObjectDestructor.js" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
+	

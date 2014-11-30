@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="OpenCV_01">
+</Property><Property Name="Solution File" Value="O:\ANU CSIRO\VS2005\Projects\OpenCV_01\OpenCV_01.sln">
+</Property><Property Name="User Options File" Value="O:\ANU CSIRO\VS2005\Projects\OpenCV_01\OpenCV_01.suo">
+</Property><Property Name="Date" Value="Monday, 28 June 2010">
+</Property><Property Name="Time" Value="16:05 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="OpenCV_01.sln" Description="File successfully backed up as O:\ANU CSIRO\VS2005\Projects\OpenCV_01\OpenCV_01.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="OpenCV_01.suo" Description="File successfully backed up as O:\ANU CSIRO\VS2005\Projects\OpenCV_01\OpenCV_01.suo.old">
+</Event><Event ErrorLevel="0" Project="OpenCV_01" Source="OpenCV_01\OpenCV_01.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="OpenCV_01" Source="OpenCV_01\OpenCV_01.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="OpenCV_01" Source="OpenCV_01\OpenCV_01.vcproj" Description="Project file successfully backed up as 'O:\ANU CSIRO\VS2005\Projects\OpenCV_01\OpenCV_01\OpenCV_01.vcproj.8.00.old'.">
+</Event><Event ErrorLevel="0" Project="OpenCV_01" Source="OpenCV_01\OpenCV_01.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="OpenCV_01" Source="OpenCV_01\OpenCV_01.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="OpenCV_01.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="OpenCV_01.sln" Description="Converted">
+</Event></UpgradeLog>

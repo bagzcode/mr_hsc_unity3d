@@ -1,0 +1,20 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{9B1BD5AC-87E5-C7C2-76A4-321848A225DD}") = "Unity robot arm & gaze", "Unity robot arm & gaze.csproj", "{786C1C27-5E7E-E374-E8FE-5684C1E0C8A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{786C1C27-5E7E-E374-E8FE-5684C1E0C8A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{786C1C27-5E7E-E374-E8FE-5684C1E0C8A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{786C1C27-5E7E-E374-E8FE-5684C1E0C8A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{786C1C27-5E7E-E374-E8FE-5684C1E0C8A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

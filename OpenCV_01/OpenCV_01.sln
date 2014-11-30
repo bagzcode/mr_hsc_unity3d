@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenCV_01", "OpenCV_01\OpenCV_01.vcproj", "{8E939685-4FCB-465F-BD2E-296640002C7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E939685-4FCB-465F-BD2E-296640002C7D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8E939685-4FCB-465F-BD2E-296640002C7D}.Debug|Win32.Build.0 = Debug|Win32
+		{8E939685-4FCB-465F-BD2E-296640002C7D}.Release|Win32.ActiveCfg = Release|Win32
+		{8E939685-4FCB-465F-BD2E-296640002C7D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

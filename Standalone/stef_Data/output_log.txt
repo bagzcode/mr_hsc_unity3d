@@ -1,0 +1,9 @@
+Player: init engine
+Direct3D:
+    Version:  Direct3D 9.0c [nv4_disp.dll 6.14.10.9147]
+    Renderer: NVIDIA Quadro FX 3450/4000 SDI
+    Vendor:   NVIDIA
+    VRAM:     256 MB
+desktop: 1280x1024 72Hz; virtual: 1280x1024 at 0,0
+       Receiving unhandled exception
+mono: exit called, code 1
