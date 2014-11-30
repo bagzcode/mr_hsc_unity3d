@@ -1,0 +1,2114 @@
+Player: init engine
+Direct3D:
+    Version:  Direct3D 9.0c [igxprd32.dll 6.14.10.5029]
+    Renderer: Mobile Intel(R) 4 Series Express Chipset Family
+    Vendor:   Intel
+    VRAM:     1024 MB
+desktop: 1280x1024 60Hz; virtual: 2560x1024 at 0,0
+           You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+UnityEngine.WWW:LoadImageIntoTexture(Texture2D)
+videoCapture:Update()
+
+[..\..\Runtime\Export\WWW.cpp line 771] 
+(Filename: ..\..\Runtime\Export\WWW.cpp Line: 771)
+
+Cleanup player
