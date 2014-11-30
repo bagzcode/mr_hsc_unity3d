@@ -1,16 +1,5 @@
 
-var xMouse : float;
-var zMouse : float;
-var clickMouse : boolean = false;
-
-function Start()
-{
-	transform.position.y = -13 ;
-	GameObject.Find("tip_ghost").renderer.enabled = true ;
-}
-
-
-function FixedUpdate () {
+function Update () {
 	if(Input.GetMouseButtonDown(0))
 	{
 		clickMouse = true ;
@@ -33,5 +22,5 @@ function FixedUpdate () {
 			var move : Vector3 = Vector3(targetPoint_x, targetPoint.y , targetPoint_z) - transform.position ;
 			transform.Translate(move);	
 		}
-	}	
+	}
 }

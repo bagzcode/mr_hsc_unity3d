@@ -1,0 +1,8 @@
+Player: init engine
+Direct3D:
+    Version:  Direct3D 9.0c [nv4_disp.dll 6.18.13.4052]
+    Renderer: NVIDIA GeForce 320M
+    Vendor:   NVIDIA
+    VRAM:     256 MB
+desktop: 1280x800 60Hz; virtual: 1280x800 at 0,0
+           Cleanup player
