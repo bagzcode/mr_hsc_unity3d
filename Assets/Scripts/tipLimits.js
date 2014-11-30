@@ -1,9 +1,5 @@
-//////////////////////////////////////
-// Created by Stephane Bersot - 2010
-// www.stephanebersot.com
-//////////////////////////////////////
 
-function FixedUpdate () {
+function Update () {
 	if(transform.position.x < -15) transform.position.x = -15;
 	if(transform.position.x > 15) transform.position.x = 15;
 	if(transform.position.y < -13) transform.position.y = -13;

@@ -1,8 +1,3 @@
-//////////////////////////////////////
-// Created by Stephane Bersot - 2010
-// www.stephanebersot.com
-//////////////////////////////////////
-
 using UnityEngine;
 using System;
 using System.Net;
@@ -28,14 +23,21 @@ public class sendUDP : MonoBehaviour {
 	int unit = 100; //units difference btw robot and unity
 	int err_frame_mini = 0;
 	
-	float offset_x, offset_y, offset_z ;
-	static double coord_x, coord_y, coord_z ; //position of the 3D tip
-
+	//string test1, test2 ;
+	
+	float offset_x ;
+	float offset_y ;
+	float offset_z ;
+	
+	//position of the 3D tip
+	static double coord_x ;
+	static double coord_y ;
+	static double coord_z ;
+	
 	//coordinates received by robot
 	byte[]  robot_x = new byte[8];
 	byte[]  robot_y = new byte[8];
 	byte[]  robot_z = new byte[8];
-	double robot_xd, robot_yd, robot_zd;
 
 	static Thread receiveThread;	
 	static IPEndPoint ep = new IPEndPoint(IPAddress.Any, 50002);	
@@ -45,6 +47,8 @@ public class sendUDP : MonoBehaviour {
 	
 	Vector3 loc;
 	bool test = true ;
+	bool test_enable = false ;
+	bool sendServer = false ; 
 	
 	void Start ()
 	{		
@@ -53,14 +57,10 @@ public class sendUDP : MonoBehaviour {
 		empty_size_bytes = BitConverter.GetBytes(empty_size);
 		data_id_bytes = BitConverter.GetBytes(data_id);
 		udpClient.Connect("150.229.9.120", 50002); //robot arm
-		myThread();
 	}
 	
-	void FixedUpdate ()
-	{	//locator1 represents the starting position, the cross on the playboard		
-		if(!receiveThread.IsAlive) myThread(); //received from robots
-		convertReceivedData();
-		
+	void Update ()
+	{	//locator1 represents the starting position, the cross on the playboard
 		while(test==true)
 		{
 			loc = GameObject.Find("locator1").transform.position;
@@ -76,30 +76,10 @@ public class sendUDP : MonoBehaviour {
 		coord_y = transform.position.x - offset_x ;
 		coord_z = transform.position.y  - offset_y  ;
 		
-		//print("3D   " + -coord_y +"   "+ coord_z +"   "+ coord_x);
-		//print("Rb   " + robot_xd*unit +"   "+ robot_yd*unit +"   "+ robot_zd*unit);
-		sendData( -coord_y/unit , coord_z/unit , coord_x/unit);
-	}
-	
-	void FixedUpdate_inProgress ()
-	{	//locator1 represents the starting position, the cross on the playboard		
-		myThread(); //received from robot
-		while(test==true)
-		{
-			float a = (float)robot_xd *unit;
-			float b = (float)robot_yd *unit;
-			float c = (float)robot_zd *unit;
-			transform.position = new Vector3( -a, b-20.5f+7, c+21.4f ) ;
-			test = false ;
-		}
-		
-		//get sphere_tip position
-		coord_x = transform.position.z   ;
-		coord_y = transform.position.x  ;
-		coord_z = transform.position.y   ;
-		print("3D   " + -coord_y +"   "+ coord_z +"   "+ coord_x);
-		print("Rb   " + robot_xd*unit +"   "+ robot_yd*unit +"   "+ robot_zd*unit);
-		sendData( -coord_y/unit , coord_z/unit , coord_x/unit);
+		//Debug.Log(coord_x + " " + coord_y + " " + coord_z);
+
+		sendData(-coord_y/unit, coord_z/unit, coord_x/unit);
+		receiveData();
 	}
 	
 	void sendData(double x, double y, double z)
@@ -118,15 +98,10 @@ public class sendUDP : MonoBehaviour {
 		System.Buffer.BlockCopy(reverseBytes(y_bytes,8), 0, sendBytes, 18,  8);
 		System.Buffer.BlockCopy(reverseBytes(z_bytes,8), 0, sendBytes, 26, 8);
 		
-		try
-		{
-			udpClient.Send(sendBytes, 34); //send to robot
-		}
-		catch (Exception e)
-		{
-			print(e.ToString());
-		}
-		
+		//only send last position if already in right position, not every frames
+		//if (sendServer == true)
+		udpClient.Send(sendBytes, 34); //send to robot
+		myThread(); //received from robot
 		deltaUdp(); //delta btw robot and 3D values
 		//displayBytes(sendBytes);
 	}
@@ -155,36 +130,21 @@ public class sendUDP : MonoBehaviour {
 		{
 			receiveBytes = udpClient.Receive(ref ep);
 		}
-		catch (Exception e)
+		catch (SocketException socketException)
 		{
-			print(e.ToString());
-		}
-		receiveThread.Abort();
-	}
-	
-	void convertReceivedData()
-	{
-		try
-		{
-			System.Buffer.BlockCopy(receiveBytes, 10, robot_x, 0, 8);
-			System.Buffer.BlockCopy(receiveBytes, 18, robot_y, 0, 8);
-			System.Buffer.BlockCopy(receiveBytes, 26, robot_z, 0, 8);
-			robot_xd = BitConverter.ToDouble(reverseBytes(robot_x, 8), 0);
-			robot_yd = BitConverter.ToDouble(reverseBytes(robot_y, 8), 0);
-			robot_zd = BitConverter.ToDouble(reverseBytes(robot_z, 8), 0);
-		}
-		catch(Exception e)
-		{
-			//print(e);
+			//Debug.Log(socketException.Message);
 		}
 	}
 	
 	void deltaUdp()
 	{	//calcule delta btw robot and 3D and display tip_ghost if error > 1
 		double er_x, er_y, er_z ;
-		er_x = -coord_y - robot_xd*unit;
-		er_y =  coord_z - robot_yd*unit;
-		er_z =  coord_x - robot_zd*unit;
+		System.Buffer.BlockCopy(receiveBytes, 10, robot_x, 0, 8);
+		System.Buffer.BlockCopy(receiveBytes, 18, robot_y, 0, 8);
+		System.Buffer.BlockCopy(receiveBytes, 26, robot_z, 0, 8);
+		er_x = -coord_y - BitConverter.ToDouble(reverseBytes(robot_x, 8), 0)*unit;
+		er_y = coord_z - BitConverter.ToDouble(reverseBytes(robot_y, 8), 0)*unit;
+		er_z = coord_x - BitConverter.ToDouble(reverseBytes(robot_z, 8), 0)*unit;
 		//Debug.Log("er_x = " + er_x +"   er_y = "+ er_y +"   er_z = "+ er_z);
 		
 		if(Mathf.Abs((float)er_x)>1 || Mathf.Abs((float)er_y)>1 || Mathf.Abs((float)er_z)>1)
@@ -195,26 +155,33 @@ public class sendUDP : MonoBehaviour {
 			}
 			else {
 				GameObject.Find("tip_ghost").renderer.enabled = true ;
-				float a = (float)robot_xd *unit;
-				float b = (float)robot_yd *unit;
-				float c = (float)robot_zd *unit;
+				float a = (float)BitConverter.ToDouble(reverseBytes(robot_x, 8), 0) *unit;
+				float b = (float)BitConverter.ToDouble(reverseBytes(robot_y, 8), 0) *unit;
+				float c = (float)BitConverter.ToDouble(reverseBytes(robot_z, 8), 0) *unit;
 				
 				GameObject.Find("sphere_tip_ghost").transform.position = new Vector3( -a, b-20.5f+7, c+21.4f ) ;
+				GameObject.Find("tip_ghost").transform.rotation = GameObject.Find("tip").transform.rotation ;
 			}
 		} else {
 			err_frame_mini = 0;
 			GameObject.Find("tip_ghost").renderer.enabled = false ;
 		}
+		
+		//test1 = "er_x = " + er_x.ToString("f2") +"   er_y = "+ er_y.ToString("f2") +"   er_z = "+ er_z.ToString("f2") ;
+		//test2 = (-coord_y).ToString("f2") + "      " + (BitConverter.ToDouble(reverseBytes(robot_x, 8), 0)*unit).ToString("f2");
 	}
 	
 	void myThread()
-	{	
-		//receive from robot thread
+	{	//receive from robot thread
 		receiveThread = new Thread(receiveData);
-        //receiveThread.IsBackground = true;
+        receiveThread.IsBackground = true;
 		receiveThread.Start();
-        //receiveThread.Abort();	
-		//convertReceivedData();
+        receiveThread.Abort();	 
 	}
 	
+	//~ void OnGUI ()
+	//~ {
+		//~ GUI.Label (new Rect (10, 20, 400, 20), test1);
+		//~ GUI.Label (new Rect (10, 30, 400, 20), test2);
+	//~ }
 }
