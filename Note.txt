@@ -1,0 +1,5 @@
+model can move to new click of cube
+
+problem : 
+cant click on stone
+based on time

@@ -1,8 +1,3 @@
-//////////////////////////////////////
-// Created by Stephane Bersot - 2010
-// www.stephanebersot.com
-//////////////////////////////////////
-
 // A FPS counter.
 // It calculates frames/second over each updateInterval,
 // so the display does not keep changing wildly.
@@ -29,3 +24,4 @@ function Update()
         lastInterval = timeNow;
     }
 }
+

@@ -1,0 +1,403 @@
+Player: init engine
+Direct3D:
+    Version:  Direct3D 9.0c [igxprd32.dll 6.14.10.4864]
+    Renderer: Intel(R) Q35 Express Chipset Family
+    Vendor:   Intel
+    VRAM:     384 MB
+desktop: 1680x1050 60Hz; virtual: 1680x1050 at 0,0
+       1i
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+NullReferenceException: Object reference not set to an instance of an object
+controlPosition.Update () 
+ 
+(Filename:  Line: -1)
+
+    1i
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+NullReferenceException: Object reference not set to an instance of an object
+controlPosition.Update () 
+ 
+(Filename:  Line: -1)
+
+1i
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+NullReferenceException: Object reference not set to an instance of an object
+controlPosition.Update () 
+ 
+(Filename:  Line: -1)
+
+1i
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+NullReferenceException: Object reference not set to an instance of an object
+controlPosition.Update () 
+ 
+(Filename:  Line: -1)
+
+1i
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+NullReferenceException: Object reference not set to an instance of an object
+controlPosition.Update () 
+ 
+(Filename:  Line: -1)
+
+1i
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+NullReferenceException: Object reference not set to an instance of an object
+controlPosition.Update () 
+ 
+(Filename:  Line: -1)
+
+1i
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+NullReferenceException: Object reference not set to an instance of an object
+controlPosition.Update () 
+ 
+(Filename:  Line: -1)
+
+1i
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+-6.04845 xstone -12.29 ystone 26.05209 zstone 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+4.9 xscale 3 yscale 7.341667 zscale 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+-12.79 yDown 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+0.05208588 : d Z
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+6.04845 : d X 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+  parallel to the left
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+-7.681784 xtip 26.05209 ztip 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+go to the hole 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+1i
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+-6.04845 xstone -12.29 ystone 26.05209 zstone 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+4.9 xscale 3 yscale 7.341667 zscale 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+-12.79 yDown 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+0.05208588 : d Z
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+6.04845 : d X 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+  parallel to the left
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+-7.681784 xtip 26.05209 ztip 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+go to the hole 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+2i
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+6.890614 xstone -12.29 ystone 24.37917 zstone 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3.828125 xscale 3 yscale 3.3875 zscale 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+-12.79 yDown 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+1.620829 : d Z
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+6.890614 : d X 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+ right bottom 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+8.166656 xtip 23.25 ztip 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+go to the hole 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+2i
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+6.890614 xstone -12.29 ystone 24.37917 zstone 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3.828125 xscale 3 yscale 3.3875 zscale 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+-12.79 yDown 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+1.620829 : d Z
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+6.890614 : d X 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+ right bottom 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+8.166656 xtip 23.25 ztip 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+go to the hole 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+3i
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+0.459363 xstone -12.29 ystone 24.68334 zstone 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+1.8375 xscale 3 yscale 0.3458333 zscale 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+-12.79 yDown 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+1.316662 : d Z
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+0.459363 : d X 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+ bottom of hole 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+0.459363 xtip 24.51042 ztip 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+go to the hole 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+4i
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+0.3827991 xstone -12.29 ystone 32.59167 zstone 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+5.129687 xscale 3 yscale 3.235417 zscale 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+-12.79 yDown 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+6.591671 : d Z
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+0.3827991 : d X 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+ bottom of hole 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+0.3827991 xtip 30.97396 ztip 
+UnityEngine.Debug:Log(Object)
+controlPosition:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+Cleanup player
